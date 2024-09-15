@@ -14,7 +14,7 @@ This is a weather dashboard application that allows users to search for weather 
   
 ## Demo
 
-Insert demo screenshots or a link to your live demo if you have one deployed.
+https://weatherdashboard-app.vercel.app/
 
 ## Technologies Used
 
